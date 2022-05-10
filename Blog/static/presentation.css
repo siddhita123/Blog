@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.abc{
+    background-color: rgb(141, 117, 163);
+}

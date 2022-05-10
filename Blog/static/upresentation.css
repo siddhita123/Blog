@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.xyz{
+    background-color: rgb(89, 125, 146);
+}
+
+.h{
+    background-color: lightpink;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    color: rgb(100, 78, 194);
+}
